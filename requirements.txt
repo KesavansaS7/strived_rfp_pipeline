@@ -1,0 +1,8 @@
+pandas
+requests
+pypdf
+python-dotenv
+groq
+duckduckgo-search
+tqdm
+chromadb

@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+output/
+chroma_rfp_data/
+rfp_pdfs/
+rfp_database.sqlite
+pdf_cache/
+.vscode/
+.idea/
+*.swp
